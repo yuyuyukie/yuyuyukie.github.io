@@ -1,7 +1,5 @@
 # YukiYama's Portfolio
 
-## 自己紹介
-
 ## ポートフォリオ一覧
 
 - Hooked Type
